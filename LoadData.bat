@@ -1,1 +1,1 @@
-sqlldr <username>/<password>@<tns_name> control=habr2_data.ctl 
+sqlldr <username>/<password>@<tns_name> control=LoadData.ctl 
